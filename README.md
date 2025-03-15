@@ -24,9 +24,11 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/godson2607/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/godson2607/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/godson2607/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/godson2607/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/godson2607/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/godson2607/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
